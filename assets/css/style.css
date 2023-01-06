@@ -188,3 +188,10 @@ hr {
     border-radius: 50%;
 }
 
+/* event times*/
+
+#times {
+    background-image: url('../image/dublin-city.webp');
+
+}
+
