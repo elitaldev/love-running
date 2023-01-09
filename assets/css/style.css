@@ -330,3 +330,14 @@ hr {
     padding: 0 20px;
 
 } 
+
+#photos {
+    column-count: 3;
+}
+/*for small screan sizes 800px and down */
+@media screan and (max-width:800px) {
+    #photos {
+        column-count: 2;
+    }
+
+}
